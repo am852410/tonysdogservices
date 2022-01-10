@@ -6,9 +6,20 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <InstagramIcon /> <FacebookIcon />
+        <a
+          target="_blank"
+          href="https://www.instagram.com/tonysdogservicesunltd/"
+        >
+          <InstagramIcon />
+        </a>{" "}
+        <a
+          target="_blank"
+          href="https://www.facebook.com/profile.php?id=100076315683145"
+        >
+          <FacebookIcon />
+        </a>
       </div>
-      <p> &copy; 2021 tonysdogsunltd.com</p>
+      <p> &copy; 2022 tonysdogsunltd.com</p>
     </div>
   );
 }
