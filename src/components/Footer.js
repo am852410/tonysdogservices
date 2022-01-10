@@ -8,12 +8,14 @@ function Footer() {
       <div className="socialMedia">
         <a
           target="_blank"
+          rel="noreferrer"
           href="https://www.instagram.com/tonysdogservicesunltd/"
         >
           <InstagramIcon />
         </a>{" "}
         <a
           target="_blank"
+          rel="noreferrer"
           href="https://www.facebook.com/profile.php?id=100076315683145"
         >
           <FacebookIcon />

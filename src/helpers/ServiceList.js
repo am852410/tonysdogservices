@@ -3,9 +3,7 @@ import DropInVisitsSixty from "../assets/home.jpg";
 import NeighborhoodWalksThirty from "../assets/dogwalk1.jpeg";
 import NeighborhoodWalksSixty from "../assets/balboapark.jpeg";
 import DogBeachAdventures from "../assets/dogbeach.jpeg";
-import DogParkAdventures from "../assets/dogpark.jpeg";
 import HikingAdventures from "../assets/hikingone.jpg";
-//import Stay At Home from "../assets/"
 
 export const ServiceList = [
   {
