@@ -1,5 +1,5 @@
 .contact {
-  width: 100%;
+  width: 100vw;
   height: 90vh;
   display: flex;
 }
@@ -30,7 +30,6 @@
 
 .contact .rightSide {
   padding: 30px;
-
 }
 
 #contact-form {
@@ -85,4 +84,23 @@ textarea:focus {
   color: whitesmoke;
   font-size: 15px;
   cursor: pointer;
+}
+
+
+@media only screen and (max-width: 650px) {
+  .contact {
+    flex-direction: column;
+  }
+
+  .contact .leftSide  {
+    height: 200px;
+  }
+  .contact .rightSide  {
+    padding: 15px;
+  }
+
+  .contact .rightSide h2 {
+    margin-bottom: 50px;
+  
+  }
 }

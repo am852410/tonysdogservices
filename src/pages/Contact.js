@@ -21,10 +21,9 @@ function Contact() {
         style={{ backgroundImage: `url(${ImageLeft})` }}
       />
       <div className="rightSide">
-        <h1> Contact Antonio </h1>
+        <h1>Contact Antonio</h1>
 
-        <h2>  If you have any questions, suggestions or feedback I would love to hear from you!
-        </h2>
+        <h2>If you have any questions, suggestions or feedback I would love to hear from you!</h2>
 
         <div id="contact-form" >
           <label htmlFor="name">Full Name</label>

@@ -84,11 +84,17 @@
 
   .navbar .rightSide {
     justify-content: flex-end;
-    padding-right: 50px;
+    /* padding-right: 50px; */
   }
 
   .navbar .rightSide button {
     display: inherit;
+  }
+  .navbar .leftSide {
+    font-size: 15px;
+  }
+  .navbar .rightSide svg {
+    font-size: 27px;
   }
 }
 
