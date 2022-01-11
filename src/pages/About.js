@@ -10,10 +10,9 @@ function About() {
         style={{ backgroundImage: `url(${AboutMe})` }}
       />
       <div className="aboutRight">
-        {/* <div className="aboutBottom" /> */}
-        <h1> ABOUT </h1>
+        <h1>ABOUT</h1>
         <div className="aboutMiddle">
-          <h2> MEET ANTONIO </h2>
+          <h2>MEET ANTONIO</h2>
           <p>
             Antonio Mendoza is an energetic and skilled specialist in canines of
             all types, shapes, and sizes. He began his professional career
