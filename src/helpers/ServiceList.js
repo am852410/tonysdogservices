@@ -1,5 +1,4 @@
 import DropInVisitsThirty from "../assets/homeone.jpg";
-import DropInVisitsSixty from "../assets/home.jpg";
 import DogParkVisits from "../assets/dogpark.jpeg";
 import NeighborhoodWalksSixty from "../assets/balboapark.jpeg";
 import DogBeachAdventures from "../assets/dogbeach.jpeg";
