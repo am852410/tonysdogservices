@@ -15,7 +15,7 @@ function Services() {
               image={serviceItem.image}
               name={serviceItem.name}
               info={serviceItem.info}
-              price={serviceItem.price}
+              url={serviceItem.url}
             />
           );
         })}

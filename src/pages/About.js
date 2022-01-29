@@ -19,15 +19,15 @@ function About() {
             working for Rover.com in 2018. Since then, he has gained the trust
             and loyalty of all his clients and has made it a priority to make
             sure that all his clients are completely satisfied with the care he
-            provides in his services. Meeting the needs of his canine clients is
+            provides in his services. Meeting the needs of his clients is
             always a priority.
           </p>
 
           <p>
-            His love and admiration for canines inspired him to pursue his dream
+            His love and admiration for dogs inspired him to pursue his dream
             of opening up his own business. In 2020, Antonio's vision of opening
-            up a Dog Service business became a reality. He successfully
-            completed a Full Stack Software Engineering Bootcamp through General
+            up a dog service business became a reality. He successfully
+            completed a full stack software engineering bootcamp through General
             Assembly to learn how to build his own website for his business to
             thrive.
           </p>

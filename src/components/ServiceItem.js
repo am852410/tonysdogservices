@@ -1,13 +1,15 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
-function ServiceItem({ image, info, name, price }) {
+function ServiceItem({ image, info, name, price, url }) {
   return (
-    <div className="serviceItem">
-      <div style={{ backgroundImage: `url(${image})` }}> </div>
-      <p>{name}</p>
-      <p>{info}</p>
-      <p>${price}</p>
-    </div>
+    <Link className="link" to={`${url}`} >
+      <div className="serviceItem">
+        <div style={{ backgroundImage: `url(${image})` }}> </div>
+        <p>{name}</p>
+        <p>{info}</p>
+      </div>
+    </Link>
   );
 }
 

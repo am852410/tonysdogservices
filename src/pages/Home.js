@@ -12,8 +12,8 @@ function Home() {
           To provide quality services to our canine friends and trust and
           satisfaction to our clients.
         </p>
-        <Link to="/services">
-          <button className="button"> CHECK OUT OUR SERVICES </button>
+        <Link className="link" to="/services">
+          <button className="button"> CHECK OUT MY SERVICES </button>
         </Link>
       </div>
     </div>

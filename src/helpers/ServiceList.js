@@ -1,45 +1,46 @@
 import DropInVisitsThirty from "../assets/homeone.jpg";
 import DropInVisitsSixty from "../assets/home.jpg";
-import NeighborhoodWalksThirty from "../assets/dogwalk1.jpeg";
+import DogParkVisits from "../assets/dogpark.jpeg";
 import NeighborhoodWalksSixty from "../assets/balboapark.jpeg";
 import DogBeachAdventures from "../assets/dogbeach.jpeg";
 import HikingAdventures from "../assets/hikingone.jpg";
+import Training from "../assets/lyla.jpeg"
 
 export const ServiceList = [
   {
     name: "Drop In Visits",
-    info: "30 Minutes",
+    info: "Learn More",
     image: DropInVisitsThirty,
-    price: 20.0
-  },
-  {
-    name: "Drop In Visits",
-    info: "60 Minutes",
-    image: DropInVisitsSixty,
-    price: 25.0
+    url: "/services/dropin"
   },
   {
     name: "Neighborhood Walks",
-    info: "30 Minutes",
-    image: NeighborhoodWalksThirty,
-    price: 25.0
+    info: "Learn More",
+    image: Training,
+    url: "/services/walks"
   },
   {
-    name: "Neighborhood Walks",
-    info: "60 Minutes",
-    image: NeighborhoodWalksSixty,
-    price: 30.0
+    name: "Dog Park Visits",
+    info: "Learn More",
+    image: DogParkVisits,
+    url: "/services/dogpark"
   },
   {
     name: "Dog Beach Visits",
-    info: "90/120 Minutes",
+    info: "Learn More",
     image: DogBeachAdventures,
-    price: 40.0
+    url: "/services/dogbeach"
   },
   {
     name: "Hiking Adventures",
-    info: "90/120 Minutes",
+    info: "Learn More",
     image: HikingAdventures,
-    price: 60.0
+    url: "/services/hiking"
+  },
+  {
+    name: "Training",
+    info: "Learn More",
+    image: NeighborhoodWalksSixty,
+    url: "/services/training"
   }
 ];

@@ -16,7 +16,7 @@ function Footer() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.facebook.com/profile.php?id=100076315683145"
+          href="https://www.facebook.com/Antonios-Dog-Services-Unlimited-104963222051381"
         >
           <FacebookIcon />
         </a>

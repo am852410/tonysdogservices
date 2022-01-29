@@ -1,0 +1,67 @@
+.dogTraining {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+  }
+  
+  .dogTrainingLeft {
+    height: 100%;
+    flex: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .dogTrainingRight {
+    height: 100%;
+    flex: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px;
+  }
+  
+  .dogTrainingMiddle {
+    border: 2px solid white;
+    padding: 30px 50px;
+    border-radius: 10px;
+    z-index: 0;
+  }
+  
+  .dogTrainingRight p {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-weight: 10;
+  }
+  
+  .dogTraining .dogTrainingRight h1,
+  h2 {
+    font-weight: 400;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    color: black;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  @media only screen and (max-width: 650px) {
+    .dogTraining {
+      flex-direction: column;
+      height: auto;
+      display: block
+    }
+  
+    .dogTrainingLeft  {
+      height: 30vh;
+      width: 100vw;
+      display: block
+    }
+  
+    .dogTrainingRight  {
+      padding: 15px;
+    }
+  
+    .dogTrainingMiddle {
+      border: none;
+    }
+  }
