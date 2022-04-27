@@ -1,6 +1,6 @@
 import DropInVisitsThirty from "../assets/homeone.jpg";
 import DogParkVisits from "../assets/dogpark.jpeg";
-import NeighborhoodWalksSixty from "../assets/balboapark.jpeg";
+import NeighborhoodWalksSixty from "../assets/nellie.jpeg";
 import DogBeachAdventures from "../assets/dogbeach.jpeg";
 import HikingAdventures from "../assets/hikingone.jpg";
 import Training from "../assets/lyla.jpeg"
@@ -37,9 +37,9 @@ export const ServiceList = [
     url: "/services/hiking"
   },
   {
-    name: "Training",
+    name: "In Home Dog Sitting",
     info: "Learn More",
     image: NeighborhoodWalksSixty,
-    url: "/services/training"
+    url: "/services/dogsitting"
   }
 ];

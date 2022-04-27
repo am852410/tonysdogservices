@@ -23,7 +23,7 @@ function Dogparkvisits() {
           </p>
 
           <p>
-            Additional Services also include: Feed (if necessary) / Replenish water bowl / Administer medications.
+            Additional Services also include: Feed (if necessary) / Replenish water bowl.
           </p>
           
         </div>

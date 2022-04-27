@@ -25,7 +25,7 @@ function Walks() {
           </p>
 
           <p>
-            Additional Services also include: Feed (if necessary) / Replenish water bowl / Take trash out / Administer medications.
+            Additional Services also include: Feed (if necessary) / Replenish water bowl / Take trash out.
           </p>
           
         </div>

@@ -1,5 +1,5 @@
 import React from "react";
-import dogTraining from "../../assets/dogwalk1.jpeg";
+import dogTraining from "../../assets/hermoine.jpeg";
 import "../../styles/Training.css";
 
 function Training() {
@@ -10,22 +10,29 @@ function Training() {
         style={{ backgroundImage: `url(${dogTraining})` }}
       />
       <div className="dogTrainingRight">
-        <h1>Dog Training</h1>
+        <h1>In Home Dog Sitting</h1>
         <div className="dogTrainingMiddle">
           
-          <h2>Motivational Training: $45</h2>
+          <h2>Half Day Hours 8pm-8am: $50</h2>
+          <h2>Additional Dog: +$10</h2>
 
-          <h2>Individualized Training: $55</h2>
+          <h2>Full Day (24hrs): $150</h2>
+          <h2>Additional Dog: +$25</h2>
 
           <p>
-            Motivational and Trust training offers technique's to help your dog with
-            Recall, Sitting, Walking, Staying, and Sociability Training.  
+            Half Day Dog Sitting services offer a 1 hr morning and evening walk, spending the 
+            night in your home attending to any of your dog's needs. Special meal preparation,
+            medication administration and the cleanliness of your home. We will ensure your 
+            dog and your home is safe and in the best care.  
+            
           </p>
 
           <p>
-            Individualized training offers unique training for dogs with problems 
-            such as fear, hyperactivity, aggression, separation anxiety, excessive
-            barking, insecurity and destructive behaviors. 
+            Full Day Dog Sitting services offer 24 hr care. This includes the BEST care providing
+            100% attention to your dog. Will go on 2 neighborhood walks and everyday trips to 
+            a dog park, beach, or hiking trail. This also includes Overnight stay, special meal 
+            preparation, medication administration and the cleanliness of your home. 
+            
           </p>
           
         </div>

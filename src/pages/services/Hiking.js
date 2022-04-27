@@ -12,7 +12,7 @@ function Hiking() {
       <div className="dogHikingRight">
         <h1>Hiking Adventures</h1>
         <div className="dogHikingMiddle">
-          <h2>90-120 Minutes: $50</h2>
+          <h2>90-120 Minutes: $45</h2>
 
           <h2>+$10 each additional dog</h2>
 
@@ -24,7 +24,7 @@ function Hiking() {
           </p>
 
           <p>
-            Additional Services also include: Plenty of Water / Feed (if necessary) / Replenish water bowl / Administer medications.
+            Additional Services also include: Plenty of Water / Feed (if necessary) / Replenish water bowl.
           </p>
           
         </div>

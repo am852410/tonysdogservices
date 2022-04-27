@@ -11,7 +11,7 @@ import Dogwalks from "./pages/services/Walks"
 import Dogpark from "./pages/services/Dogpark"
 import Dogbeach from "./pages/services/Dogbeach"
 import Hiking from "./pages/services/Hiking"
-import Training from "./pages/services/Training"
+import Dogsitting from "./pages/services/Training"
 
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
@@ -28,7 +28,7 @@ function App() {
           <Route path="/services/dogpark" element={<Dogpark />} />
           <Route path="/services/dogbeach" element={<Dogbeach />} />
           <Route path="/services/hiking" element={<Hiking />} />
-          <Route path="/services/training" element={<Training />} />
+          <Route path="/services/dogsitting" element={<Dogsitting />} />
           <Route path="/about" element={<About />} />
           <Route path="/login" element={<Login />} />
           <Route path="/contact" element={<Contact />} /> 
