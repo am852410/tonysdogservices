@@ -16,8 +16,8 @@ function Training() {
           <h2>Half Day Hours 8pm-8am: $50</h2>
           <h2>Additional Dog: +$10</h2>
 
-          <h2>Full Day (24hrs): $150</h2>
-          <h2>Additional Dog: +$25</h2>
+          <h2>Full Day (24hrs): $100</h2>
+          <h2>Additional Dog: +$10</h2>
 
           <p>
             Half Day Dog Sitting services offer a 1 hr morning and evening walk, spending the 
